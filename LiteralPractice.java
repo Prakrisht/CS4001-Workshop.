@@ -12,9 +12,5 @@ public class LiteralPractice
        System.out.println(b);
        System.out.println("Copyright symbol:"+copyright);
        
-       
-       
-
-       
    }
 }
